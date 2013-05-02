@@ -1,1 +1,1 @@
-Example dummy file FIXED
+Example dummy file FIXED and explained a bit more
